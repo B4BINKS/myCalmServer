@@ -1,0 +1,29 @@
+[
+    {
+        "configToUse": 1
+    },
+    {
+        "thisWasConfig": 1,
+        "databaseFile": "./reqLog.json",
+        "ratelimitTime": 300,
+        "allowedRequest": 5,
+        "ipRatelimit": true,
+        "keyRatelimit": true
+    },
+    {
+        "thisWasConfig": 2,
+        "databaseFile": "./reqLog.json",
+        "ratelimitTime": 600,
+        "allowedRequest": 10,
+        "ipRatelimit": true,
+        "keyRatelimit": false
+    },
+    {
+        "thisWasConfig": 3,
+        "databaseFile": "./reqLog.json",
+        "ratelimitTime": 900,
+        "allowedRequest": 15,
+        "ipRatelimit": false,
+        "keyRatelimit": true
+    }
+]
