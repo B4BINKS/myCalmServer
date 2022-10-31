@@ -1,7 +1,7 @@
 <h1 align="center">😌myCalmServer</h1>
 
 ### Features
-```
+```markdown
   * No module required
   * Fast
   * Double ratelimit system (ipAddr and Key)
